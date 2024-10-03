@@ -1,0 +1,33 @@
+.left img{
+    width: 45px;
+}
+nav ul li{
+    list-style: none;
+    padding: 0px 10px;
+}
+.dextop-searchbar{
+    width: 20vw;
+    padding: 4px 17px;
+    border-radius: 20px;
+    height: 2vw;
+    border: 0cap;
+}
+.homeIMG{
+    width: 95vw;
+    padding-right: 0vw;
+}
+.bannerIMG{
+    width: 26vw;
+    padding: 10px 0px;
+}
+.newAr{
+    width: 80vw;
+}
+.itm{
+    width: 19vw;
+}
+.fooot{
+    padding: 5vw 0vw;
+    background-color: rgb(202, 202, 202);
+    font-weight: bolder;
+}
